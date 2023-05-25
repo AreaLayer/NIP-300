@@ -12,7 +12,7 @@ Based on NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46 and NIP-47
 
 ## Definition
 
-- ´p`: Tag must be present that indicate peer
+- `p`: Tag must be present that indicate peer
 - `event`: Tag indicate event inside chat on client
 
 
