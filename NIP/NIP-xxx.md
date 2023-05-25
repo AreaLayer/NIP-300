@@ -28,4 +28,6 @@ Based on NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46 and NIP-47
 
 ## PoC
 
-We created a proof of conecpt aroudn this idea 
+We created a proof of conecpt around this idea 
+
+[More details](https://github.com/AreaLayer/Lightning-lending-PoC/blob/main/poc.rs)
