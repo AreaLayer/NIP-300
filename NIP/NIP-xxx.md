@@ -10,6 +10,8 @@ The NIP follows special events and respecting limits of Nostr protocol and Light
 
 ## Specs
 
-`Event A`
-`Event B`
-`Event C`
+- `Event A`
+
+- `Event B`
+
+- `Event C`
