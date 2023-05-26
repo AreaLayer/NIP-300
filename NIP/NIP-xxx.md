@@ -1,4 +1,4 @@
-# NIP-xx: Peers Lightning
+# NIP-xxx: Peers Lightning
 
 `author:22388oo` `optional` `draft`
 
@@ -18,13 +18,21 @@ Based on NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46 and NIP-47
 
 ## Specs
 
-- `Event A`
+- `Event A`: 
 
 - `Event B`
 
 - `Event C`
 
 ##  Example
+
+Follow below the example of the NIP
+
+``
+"input":"xxx"
+"output":"xxx"
+"hex:"xxx"
+"event":"xxx"
 
 ## PoC
 
