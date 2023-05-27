@@ -41,6 +41,7 @@ Follow below the example of the NIP
 "input":"xxx"
 "output":"xxx"
 "p":"xxx"
+"c":"xxx"
 "dlc":"xxx"
 "hex":"xxx"
 "event":"xxx"
