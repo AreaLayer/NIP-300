@@ -42,6 +42,6 @@ Follow below the example of the NIP
 "output":"xxx"
 "p":"xxx"
 "dlc":"xxx"
-"hex:"xxx"
+"hex":"xxx"
 "event":"xxx"
 },
