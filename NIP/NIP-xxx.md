@@ -39,12 +39,12 @@ Follow below the example of the NIP
 
 ```json
 {
-"input":"xxx"
-"output":"xxx"
-"p":"xxx"
-"c":"xxx"
+"input":"np12"
+"output":"np13"
+"p":"np13"
+"c":"np12"
 "locktime":"block 78888"
-"dlc":"xxx"
-"hex":"xxx"
-"event":"xxx"
+"dlc":"open block 6777 and close 78888"
+"hex":"1282893"
+"event":"event124"
 },
