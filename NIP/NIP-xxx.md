@@ -15,6 +15,7 @@ Based on NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46 and NIP-47
 - `p`: Tag must be present that indicate peer
 - `event`: Tag indicates event inside chat on client
 - `c`: Tag indicates open or close channel 
+- `locktime`: Tag indicates when close channel with Locktime form
 - `dlc`: Tag indicates DLCs and event
 
 ## PoC
@@ -42,6 +43,7 @@ Follow below the example of the NIP
 "output":"xxx"
 "p":"xxx"
 "c":"xxx"
+"locktime":"block 78888"
 "dlc":"xxx"
 "hex":"xxx"
 "event":"xxx"
