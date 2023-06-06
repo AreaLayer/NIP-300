@@ -1,6 +1,6 @@
 # NIP-xxx: Peers Lightning
 
-`author:22388oo` `optional` `draft`
+`author:Rsync` `optional` `draft`
 
 The NIP follows special events and respecting limits of Nostr protocol and Lightning Network
 
