@@ -39,11 +39,18 @@ Follow below the example of the NIP
 
 ```json
 {
+"id":"xxx"
+"pubkey":"xxx"
+"created_at":"xxx"
+"kind":"xxx"
 "input":"np12"
 "output":"np13"
+"tag":"xxx"
 "p":"np13"
 "c":"np12"
 "locktime":"block 78888"
+"content":"xxx"
+"sign":"xxx"
 "dlc":"open block 6777 and close 78888"
 "hex":"1282893"
 "event":"event124"
