@@ -33,7 +33,7 @@ We created a proof of conecpt around this idea
 
 - `Event C`: With `dlc`tag the DLCs verify both parties be multisig and musig
 
-##  Example
+##  Implemenatation
 
 Follow below the example of the NIP
 
@@ -55,3 +55,18 @@ Follow below the example of the NIP
 "hex":"1282893"
 "event":"event124"
 },
+```
+## Signature
+
+The signatures can happen with [NIP-46](https://github.com/nostr-protocol/nips/blob/master/46.md) using Nostr Connect allowign signatures safe between peers
+
+# Compatibility
+
+This NIP is compatible with NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46 and NIP-47 and relays/clients will need add only the `tag`:
+
+- "p"
+- "event"
+- "locktime"
+- "dlc"
+- "c"
+
