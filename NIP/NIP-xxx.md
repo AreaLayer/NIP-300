@@ -64,9 +64,11 @@ The signatures can happen with [NIP-46](https://github.com/nostr-protocol/nips/b
 
 This NIP is compatible with NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46 and NIP-47 and relays/clients will need add only the `tag`:
 
-- "p"
-- "event"
-- "locktime"
-- "dlc"
-- "c"
+
+- `p`: Tag must be present that indicate peer
+- `event`: Tag indicates event inside chat on client
+- `c`: Tag indicates open or close channel 
+- `locktime`: Tag indicates when close channel with Locktime form
+- `dlc`: Tag indicates DLCs and event
+
 
