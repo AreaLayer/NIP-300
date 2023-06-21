@@ -60,7 +60,7 @@ Follow below the example of the NIP
 
 The signatures can happen with [NIP-46](https://github.com/nostr-protocol/nips/blob/master/46.md) using Nostr Connect allowign signatures safe between peers
 
-# Compatibility
+## Compatibility
 
 This NIP is compatible with NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46 and NIP-47 and relays/clients will need add only the `tag`:
 
