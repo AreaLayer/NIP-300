@@ -1,4 +1,4 @@
-# NIP-xxx: Peers Lightning
+# NIP-xxx: Event Data
 
 `author:Rsync` `optional` `draft`
 
