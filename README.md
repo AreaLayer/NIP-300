@@ -1,3 +1,3 @@
-# NIP-xxx: Peers Lightning
+# NIP-xxx: Event Lightning
 
-NIP for allow integration between peers lightning and Nostr
+NIP for allow integration between peers lightning and Nostr, where relays can accept or reject open/close channels 
