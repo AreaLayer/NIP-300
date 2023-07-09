@@ -28,9 +28,9 @@ We created a proof of conecpt around this idea
 
 ## Specs
 
-- `Event A`: Two `p` into `event`
+- `Event A`: Two `pp` into `event`
 
-- `Event B`: The two `p` accepts open `c` or closec channel
+- `Event B`: The two `pp` accepts open `c` or closec channel
 
 - `Event C`: With `dlc`tag the DLCs verify both parties be multisig and musig
 
