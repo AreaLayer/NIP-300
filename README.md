@@ -1,4 +1,4 @@
-# NIP-110: Event Data
+# NIP-xxx: Event Data
 
 ## About
 
