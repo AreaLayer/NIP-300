@@ -1,6 +1,6 @@
-# NIP-110: Event Data
+# NIP-xxx: Event Data
 
-`author:Rsync` `optional` `draft`
+ `optional` `draft`
 
 The NIP follows special events and respecting limits of Nostr protocol and Lightning Network
 
