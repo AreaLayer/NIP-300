@@ -73,4 +73,6 @@ This NIP is compatible with NIP-01, NIP-02, NIP-04, NIP-09, NIP-28, NIP-46, and 
 
 ---
 
+## Implementation
 
+[Lightning Lending:  Open/close channel on Lightning Network using Nostr and DLCs](https://github.com/AreaLayer/Lightning-Lending)
