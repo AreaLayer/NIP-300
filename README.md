@@ -1,4 +1,4 @@
-# NIP-300: Event Data
+# NIP/NUD-300: Event Data
 
 ## About
 
